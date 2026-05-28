@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioneender",
+        "uuid": 11909898,
+        "checksum": "gbvdrq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
